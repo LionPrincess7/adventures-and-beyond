@@ -7,5 +7,7 @@ Tiredly, you walk around in the forest and happen to stumble (literally) across 
 The sun begins to set, what's the first thing you do?
 
 [Go to sleep?](forest/sleep.md)
+
 [Build a fire?](forest/campfire.md)
+
 [Eat food](forest/eat.md) for energy?
