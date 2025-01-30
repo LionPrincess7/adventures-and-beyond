@@ -1,4 +1,4 @@
-You decide to camp in the woods tomorrow.
+You decide to camp in the forest tomorrow.
 Your bag only fits one thing, for some reason.
 
 What do you bring?
