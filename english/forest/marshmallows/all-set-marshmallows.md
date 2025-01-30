@@ -6,9 +6,9 @@ Now the sun was setting. What do you do?
 
 Do you...
 
-[Build a fire?](marshmallows/campsite.md)
+[Build a fire?](./campsite.md)
 
-[Eat the marshmallows](marshmallows/eat-marshmallows.md) in your bag?
+[Eat the marshmallows](./eat-marshmallows.md) in your bag?
 
-Just simply [sit there](marshmallows/late.md) and enjoy the sunset?
+Just simply [sit there](./late.md) and enjoy the sunset?
 

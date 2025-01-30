@@ -7,8 +7,8 @@ Now that the sun begins to set, what do you do?
 
 Do you...
 
-[Build a fire?](backpack/campfire.md)
+[Build a fire?](./campfire.md)
 
-[Unpack your bag](backpack/unpack.md) and take a look at what's inside?
+[Unpack your bag](./unpack.md) and take a look at what's inside?
 
-Just simply [sit there](backpack/late.md) and enjoy the sunset?
+Just simply [sit there](./late.md) and enjoy the sunset?
