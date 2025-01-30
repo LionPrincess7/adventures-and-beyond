@@ -1,10 +1,9 @@
 You decide to camp in the forest tomorrow.
-Your bag only fits one thing, for some reason.
+Your bag only fits two things, for some reason.
 
-What do you bring?
+What do you bring in your small bag?
 
-1. (Camping bag)[forest/all-set-camp-bag.md]
-2. (Food)[forest/all-set-food.md]
-3. (Marshmallows!)[forest/all-set-marshmallows.md]
-4. (Your phone)[forest/all-set-phone.md]
-5. (A backpack full of things)[forest/all-set-backpack.md]
+1. [A backpack full of things and your phone](forest/all-set-backpack.md) 
+2. [Food and a camping bag](forest/all-set-food.md)
+3. [Marshmallows! and a camping bag](forest/all-set-marshmallows.md)
+
