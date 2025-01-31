@@ -1,1 +1,1 @@
-![Sunset Forest](./assets/sunset-forest.jpg)
+![Sunset Forest](../../../assets/sunset-forest.jpg)
