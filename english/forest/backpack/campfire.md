@@ -5,8 +5,10 @@ It actually worked pretty good!
 After a while, you've finally piled all the sticks you could find and rake.
 Now, where was that lighter?
 
+What should you logically do?
+
 [Rummage in your bag](./rummage.md) to look for it?
 
 [Get your phone](./flashlight.md) first to see better with the flashlight?
 
-[Panic](./panic.md)
+[Panic](./panic.md)???

@@ -14,4 +14,4 @@ Grab your things and [run away](./run.md) as fast as you can!!
 
 [Turn on](./flashlight.md) your phone's flashlight
 
-[Absolutely nothing](./nothing.md)
+[Sit still](./sit-still.md)
