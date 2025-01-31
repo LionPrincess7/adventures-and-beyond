@@ -6,5 +6,7 @@ After a while, you've finally piled all the sticks you could find and rake.
 Now, where was that lighter?
 
 [Rummage in your bag](./rummage.md) to look for it?
+
 [Get your phone](./flashlight.md) first to see better with the flashlight?
+
 [Panic](./panic.md)
