@@ -12,6 +12,6 @@ What do you do???
 
 Grab your things and [run away](./run.md) as fast as you can!!
 
-[Turn on](./flashlight.md) your phone's flashlight
+[Yell](./yell.md) to try to scare the wolf away
 
-[Sit still](./sit-still.md)
+[Sit still](./sit-still.md) and stay quiet
