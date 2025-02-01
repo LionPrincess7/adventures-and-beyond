@@ -1,7 +1,7 @@
 You pick up your phone beside your bag and turn on your flashlight.
 While opening your bag, you immediately spot the lighter on the side pocket inside.
 
-*grab*
+(grab)
 
 "Yippee!! I've found it!" you exclaim while jumping up and down.
 
