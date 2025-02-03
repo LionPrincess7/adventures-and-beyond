@@ -2,7 +2,7 @@ You dig through your bag for some marshmallows.
 "Yes! I've found the marshmallows!" you exclaim, as you open the pack.
 
 After that, you forgot to find a stick for your marshmallows.
-Too lazy to stand up, you just find a decent, unburned stick from the fire.
+As you look around, you find the perfect stick for your marshmallows!
 
 "This will do," you think.
 

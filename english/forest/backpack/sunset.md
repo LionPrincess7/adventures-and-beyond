@@ -5,13 +5,10 @@ Lost in your thoughts, you remember [Psalm 19:1](https://www.kingjamesbibleonlin
 
 "The heavens declare the glory of God; and the firmament sheweth his handywork."
 
-But then, a sudden howl snaps you back to reality.
-"What was that?" you think.
+Realizing that the stars shone already, you decide to...
 
-What do you do???
+[Build a campfire](./build-fire.md) to cook marshmallows
 
-Grab your things and [run away](./run.md) as fast as you can!!
+or...
 
-[Yell](./yell.md) to try to scare the wolf away
-
-[Sit still](./sit-still.md) and stay quiet
+[Set out your sleeping bag](./sleeping-bag.md) and go to sleep
