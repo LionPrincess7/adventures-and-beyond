@@ -5,4 +5,4 @@ After a short breakfast, you start packing your things and put them in your car.
 
 You arrived home safely.
 
-The End! Ty for playing this adventure! (＾Ｕ＾)ノ
+The End! Ty for playing this adventure! (＾-＾)
