@@ -3,8 +3,8 @@ Your bag only fits two things, for some reason.
 
 What do you bring in your small bag?
 
-1. [A backpack and your phone](backpack/all-set-backpack.md) 
+[A backpack and your phone](backpack/all-set-backpack.md) 
 
 or..
 
-2. [Food and a sleeping bag](food/all-set-food.md)
+[Food and a sleeping bag](food/all-set-food.md)
