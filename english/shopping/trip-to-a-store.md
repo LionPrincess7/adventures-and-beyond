@@ -1,7 +1,9 @@
 Today is your payday! You decide to go on a shopping spree, but don't know where!
 Where should you go today?
 
-[Daiso](./daiso.md)
-[Ross](./ross.md)
-[T.J. Maxx](./tjmaxx.md)
+To [Daiso](./daiso.md)?
+
+[Ross](./ross.md)?
+
+Or maybe [T.J. Maxx](./tjmaxx.md)?
 
