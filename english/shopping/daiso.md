@@ -7,8 +7,8 @@ As you stroll along, there are many cute things that you see! In mere minutes, y
 
 What should you choose to stay within your budget?
 
-[Stickers](./stickers.md)(cats, dogs, shapes, ribbons)
+[Stickers](./stickers.md) (cats, dogs, shapes, ribbons)
 
-[Stationery](./stationery.md)(cute pens, sticky notes, washi tape)
+[Stationery](./stationery.md) (cute pens, sticky notes, washi tape)
 
-[Blind boxes](./blindboxes.md)(Sumikko Gurashi, Rilakkuma, Molang)
+[Blind boxes](./blindboxes.md) (Sumikko Gurashi, Rilakkuma, Molang)
