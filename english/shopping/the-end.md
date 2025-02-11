@@ -1,0 +1,1 @@
+Tysm for playing this adventure game!                                                              Hope u enjoyed it! ο(=•ω＜=)ρ⌒☆ 
