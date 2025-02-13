@@ -7,3 +7,4 @@ You bring everything to your room and fixed your setup.
 
 Yay! You finished unboxing all of your stationery and using them!
 
+[The End!](./the-end.md)
