@@ -1,0 +1,1 @@
+Really? I think it is. Anyways, that's [the end](./the-end.md) of this adventure! ヾ(￣▽￣) Bye~Bye~
